@@ -5,3 +5,7 @@ body{
     background-color: #1a1a1a;
     color: #fff;
 }
+
+.container{
+    margin-bottom: 20px;
+}
