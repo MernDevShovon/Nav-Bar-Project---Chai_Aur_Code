@@ -5,3 +5,18 @@ body{
     padding: 20px;
     color: #fff;
 }
+
+.container{
+    margin-bottom: 40px;
+}
+
+
+h1{
+    padding: 10px;
+}
+
+.nav-container1{
+    background-color: #f8f9fa;
+    padding: 20px;
+    color: #1a1a1a;
+}
