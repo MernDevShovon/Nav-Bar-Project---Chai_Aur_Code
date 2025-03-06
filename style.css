@@ -123,3 +123,14 @@ h1{
     justify-content: space-around;
     text-align: center;
 }
+
+.nav3 a{
+    text-decoration: none;
+    color: #1a1a1a;
+    padding: 10px;
+    display: block;
+}
+
+.nav3 .dropdown-content {
+    display: none;
+}
