@@ -58,3 +58,62 @@ h1{
     border-radius: 40px;
 
 }
+
+
+
+.nav-container2{
+    background-color: rgb(0, 133, 0);
+    width: 200px;
+    padding: 20px;
+}
+
+.nav-container2 ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container2 li{
+    margin-bottom: 10px;
+}
+
+.nav-container2 a{
+    text-decoration: none;
+    color: #fff;
+    /* margin-bottom: 20px; */
+
+
+}
+
+.nav-container2 a:hover{
+    text-decoration: underline;
+    background-color: chocolate;
+    color: azure
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
+}
+
+.nav-container2 .button-2{
+    border: none;
+    background-color:brown;
+    width: 80px;
+    color: #fff;
+    border-radius: 20px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.nav-container2 .button-2 :hover{
+  border: 2px solid #fff;
+  border-radius: 10px;
+  color: #1a1a1a;
+  background-color: #fff;
+
+}
