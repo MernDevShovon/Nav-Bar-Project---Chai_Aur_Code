@@ -18,5 +18,13 @@ h1{
 .nav-container1{
     background-color: #f8f9fa;
     padding: 20px;
-    color: #1a1a1a;
+}
+
+
+.nav-container1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
 }
