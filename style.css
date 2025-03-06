@@ -13,6 +13,7 @@ body{
 
 h1{
     padding: 10px;
+    text-align: center;
 }
 
 .nav-container1{
@@ -46,6 +47,14 @@ h1{
     border-radius: 5px;
     border: none;
     color: #fff;
-    padding: 5px 15px;
+    padding: 5px 10px;
+    cursor: pointer;
+
+}
+
+.nav-container1 a:hover{
+    text-decoration: underline;
+    color: #1a1a1a;
+    border-radius: 40px;
 
 }
