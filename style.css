@@ -102,3 +102,38 @@ h1{
     color: #fff;
     cursor: pointer;
 }
+
+
+.nav-3{
+    background-color: #2f95fc;
+    padding: 10px;
+}
+
+.nav-3 ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.nav-3 a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    display: block;
+
+}
+
+.nav-3 .dropdowncontetnt{
+    display: none;
+}
+
+
+.nav-3 .dropdown:hover .dropdowncontetnt{
+    display: block;
+    position: absolute;
+    background-color: #1a1a1a;
+    min-width: 150px;
+}
