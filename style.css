@@ -3,7 +3,7 @@ body{
     color: #fff;
 }
 
-.nac-container{
+.nav-container{
     margin-bottom: 40px;
 }
 
@@ -12,7 +12,7 @@ h1{
 }
 
 .nav-1{
-    background-color: #cacaca;
+    background-color: #f8f9fa;
     padding: 10px;
 }
 
@@ -22,7 +22,6 @@ h1{
     justify-content: space-around;
     padding: 0;
     margin: 0;
-    
 }
 
 .nav-1 li{
@@ -39,9 +38,10 @@ h1{
 .nav-1 .button-1{
     background-color: blue;
     border: none;
-    border-radius: 5px 15px;
+    padding: 5px 10px;
     color: #fff;
-
+    border-radius: 5px;
+    cursor: pointer; 
 }
 
 .nav-1 a::after{
@@ -57,5 +57,5 @@ h1{
 }
 
 .nav-1 a:hover::after{
-    transform: scaleX(0);
+    transform: scaleX(1);
 }
